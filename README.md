@@ -10,9 +10,9 @@ gem install 'sinatra'
 
 ## Usage
 
-1.- Clone or Download the repository
-2.- Download the Paybook Gem
-3.- Run the following command ()
+  - Clone or Download the repository
+  - Download the Paybook Gem
+  - Run the following command
 
 ```ruby
 ruby app.py
